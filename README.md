@@ -29,3 +29,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
 ![Markdown](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
+
+#[Patika.dev](https://www.patika.dev/tr)
