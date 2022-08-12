@@ -30,4 +30,4 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 
 ![Markdown](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
-#[Patika.dev](https://www.patika.dev/tr)
+[Patika.dev](https://www.patika.dev/tr)
